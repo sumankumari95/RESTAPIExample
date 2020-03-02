@@ -30,3 +30,7 @@ Add Postman as a chrome extension which helps in fetching request response
 ### Run Sample Test
 
 `npm start`
+
+### Local Server
+
+`http://localhost:3000/api`
